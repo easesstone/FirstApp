@@ -10,3 +10,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# to ignore the following file when
+# push to remote repository or commit in local repository.
+/target
+/.idea
+FirstApp.iml
